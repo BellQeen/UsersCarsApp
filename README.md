@@ -1,1 +1,1 @@
-# Hibernate_project1
+# hibernate-project-1
