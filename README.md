@@ -1,1 +1,1 @@
-# hibernate-project-1
+# users-and-cars
